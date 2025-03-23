@@ -1,0 +1,12 @@
+streamlit==1.32.0
+faiss-cpu==1.7.4
+langchain==0.1.12
+langchain-openai==0.0.8
+python-dotenv==1.0.1
+PyMuPDF==1.23.26
+python-docx==1.1.0
+openai==1.13.3
+tiktoken==0.6.0
+numpy==1.26.4
+pandas==2.2.1 
+plotly==5.22.0
